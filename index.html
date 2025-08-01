@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Redirect Links</title>
+    <!-- Tailwind CSS CDN for modern, utility-first styling -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        /* Apply a consistent font-family to the entire body */
+        body {
+            font-family: 'Inter', sans-serif;
+        }
+    </style>
+</head>
+<body class="bg-slate-900 text-white flex items-center justify-center min-h-screen p-4">
+
+    <!-- Main container for the content, centered and styled -->
+    <div class="bg-slate-800 p-8 md:p-12 rounded-3xl shadow-2xl text-center max-w-2xl w-full border border-slate-700">
+        
+        <!-- Main heading for the page -->
+        <h1 class="text-4xl md:text-5xl font-extrabold mb-6 text-transparent bg-clip-text bg-gradient-to-r from-blue-400 to-indigo-600 animate-pulse">
+            Welcome!
+        </h1>
+        
+        <!-- Sub-heading or descriptive text -->
+        <p class="text-lg md:text-xl text-slate-400 mb-10">
+            Please select an option below to proceed to the destination of your choice.
+        </p>
+
+        <!-- Container for the buttons -->
+        <div class="flex flex-col md:flex-row space-y-6 md:space-y-0 md:space-x-6 justify-center">
+
+            <!-- First redirect link as a button -->
+            <a 
+                href="https://suchat-subho.github.io/course/" 
+                class="bg-blue-600 hover:bg-blue-700 text-white font-bold py-4 px-8 rounded-full transition duration-300 ease-in-out transform hover:scale-105 shadow-lg hover:shadow-xl focus:outline-none focus:ring-4 focus:ring-blue-500 focus:ring-opacity-50"
+            >
+                View Courses
+            </a>
+
+            <!-- Second redirect link as a button -->
+            <a 
+                href="https://suchat-subho.github.io/webtools/" 
+                class="bg-indigo-600 hover:bg-indigo-700 text-white font-bold py-4 px-8 rounded-full transition duration-300 ease-in-out transform hover:scale-105 shadow-lg hover:shadow-xl focus:outline-none focus:ring-4 focus:ring-indigo-500 focus:ring-opacity-50"
+            >
+                Explore Web Tools
+            </a>
+            
+        </div>
+    </div>
+
+</body>
+</html>
