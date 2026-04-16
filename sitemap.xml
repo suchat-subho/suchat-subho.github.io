@@ -1,62 +1,25 @@
-<?xml version="1.0" encoding="UTF-8"?> 
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"> 
-<url>
-  <loc>https://suchat-subho.github.io/course/</loc>
-</url>
-<url>
-  <loc>https://suchat-subho.github.io/webtools/</loc>
-</url>
-<url>
-  <loc>https://suchat-subho.github.io/usefulrepos/</loc>
-</url>
-<url>
-  <loc>https://suchat-subho.github.io/course/timetable/</loc>
-</url>
-<url>
-  <loc>https://suchat-subho.github.io/course/cdd/</loc>
-</url>
-<url>
-  <loc>https://suchat-subho.github.io/course/daa/</loc>
-</url>
-<url>
-  <loc>https://suchat-subho.github.io/course/oop/</loc>
-</url>
-<url>
-  <loc>https://suchat-subho.github.io/course/microp/</loc>
-</url>
-<url>
-  <loc>https://suchat-subho.github.io/course/aos/</loc>
-</url>
-<url>
-  <loc>https://suchat-subho.github.io/webtools/qrgen/</loc>
-</url>
-<url>
-  <loc>https://suchat-subho.github.io/webtools/latex2unicode/</loc>
-</url>
-<url>
-  <loc>https://suchat-subho.github.io/webtools/BasicWhiteboard/</loc>
-</url>
-<url>
-  <loc>https://suchat-subho.github.io/webtools/Whiteboard/</loc>
-</url>
-<url>
-  <loc>https://suchat-subho.github.io/webtools/tracker/</loc>
-</url>
-<url>
-  <loc>https://suchat-subho.github.io/webtools/sharedclipboard/</loc>
-</url>
-<url>
-  <loc>https://suchat-subho.github.io/webtools/netlistView/</loc>
-</url>
-<url>
-  <loc>https://suchat-subho.github.io/webtools/cppLinter/</loc>
-</url>
-<url>
-  <loc>https://suchat-subho.github.io/webtools/MathCrossWordSolver/</loc>
-</url>
-<url>
-  <loc></loc>
-</url>
-<url>
-  <loc>http://suchat-subho.github.io/labs.html</loc>
-</url>
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+<url><loc>https://suchat-subho.github.io/</loc> <changefreq>weekly</changefreq></url>
+<url><loc>https://suchat-subho.github.io/course/</loc> <changefreq>weekly</changefreq></url>
+<url><loc>https://suchat-subho.github.io/webtools/</loc> <changefreq>weekly</changefreq></url>
+<url><loc>https://suchat-subho.github.io/usefulrepos/</loc> <changefreq>weekly</changefreq></url>
+<url><loc>https://suchat-subho.github.io/course/timetable/</loc> <changefreq>weekly</changefreq></url>
+<url><loc>https://suchat-subho.github.io/course/cdd/</loc> <changefreq>weekly</changefreq></url>
+<url><loc>https://suchat-subho.github.io/course/daa/</loc> <changefreq>weekly</changefreq></url>
+<url><loc>https://suchat-subho.github.io/course/oop/</loc> <changefreq>weekly</changefreq></url>
+<url><loc>https://suchat-subho.github.io/course/microp/</loc> <changefreq>weekly</changefreq></url>
+<url><loc>https://suchat-subho.github.io/course/aos/</loc> <changefreq>weekly</changefreq></url>
+<url><loc>https://suchat-subho.github.io/webtools/qrgen/</loc> <changefreq>weekly</changefreq></url>
+<url><loc>https://suchat-subho.github.io/webtools/latex2unicode/</loc> <changefreq>weekly</changefreq></url>
+<url><loc>https://suchat-subho.github.io/webtools/BasicWhiteboard/</loc> <changefreq>weekly</changefreq></url>
+<url><loc>https://suchat-subho.github.io/webtools/Whiteboard/</loc> <changefreq>weekly</changefreq></url>
+<url><loc>https://suchat-subho.github.io/webtools/tracker/</loc> <changefreq>weekly</changefreq></url>
+<url><loc>https://suchat-subho.github.io/webtools/sharedclipboard/</loc> <changefreq>weekly</changefreq></url>
+<url><loc>https://suchat-subho.github.io/webtools/netlistView/</loc> <changefreq>weekly</changefreq></url>
+<url><loc>https://suchat-subho.github.io/webtools/cppLinter/</loc> <changefreq>weekly</changefreq></url>
+<url><loc>https://suchat-subho.github.io/webtools/MathCrossWordSolver/</loc> <changefreq>weekly</changefreq></url>
+<url><loc>http://suchat-subho.github.io/labs.html</loc> <changefreq>weekly</changefreq></url>
+
+</urlset>
